@@ -1,0 +1,1 @@
+Projeto desenvolvido em C# e banco de dados Access, conforme aprendizados na aula de Engenharia de Software III. Foi desenvolvida uma solução para a escola de idiomas CNA para os alunos matriculados que cancelam ou pedem transferência para outra unidade. Dessa forma, o sistema efetua os cálculos e atualiza o BD.
